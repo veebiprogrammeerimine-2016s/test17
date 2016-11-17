@@ -1,12 +1,8 @@
 <?php
 
 	// hello
-	function hello($hello){
-		echo "hello world ".$hello;
-		echo "hello world ".$hello;
-		echo "hello world ".$hello;
-		echo "hello world ".$hello;
-		
+	function Romil($date){
+		echo "hello world on".$date;
 	}
 	
 	
