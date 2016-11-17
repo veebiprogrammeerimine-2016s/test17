@@ -1,2 +1,11 @@
-romil oli siin!
-olin ka siin
+<?php
+
+	// hello
+	
+	
+	
+	// welcome
+
+
+
+?>
